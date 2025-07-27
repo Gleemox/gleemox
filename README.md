@@ -8,7 +8,7 @@
 
 🎯 I aim to contribute to a dynamic environment and grow my skills. 
 
-<p><a href="https://www.buymeacoffee.com/gleemox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="mmm" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/gleemox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="120" alt="mmm" /></a></p><br><br>
 
 ## 🧰 Tech Stack
 
